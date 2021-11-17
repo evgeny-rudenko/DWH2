@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: q21
+    description: ""
+    columns:
+      - name: sum_lo_revenue
+        description: ""
+
+      - name: year
+        description: ""
+
+      - name: p_brand
+        description: ""
+  - name: q33
+    description: ""
+    columns:
+      - name: c_city
+        description: ""
+
+      - name: s_city
+        description: ""
+
+      - name: year
+        description: ""
+
+      - name: sum_lo_revenue
+        description: ""
+  - name: q42
+    description: ""
+    columns:
+      - name: year
+        description: ""
+
+      - name: s_nation
+        description: ""
+
+      - name: p_category
+        description: ""
+
+      - name: profit
+        description: ""
